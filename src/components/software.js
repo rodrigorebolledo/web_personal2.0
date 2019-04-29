@@ -30,9 +30,6 @@ const Software = ({ source, cant_estrellas ,titulo, texto }) => {
 
 <div class="view view-cascade overlay">
   <img  class="card-img-top" src={source} alt="Card image cap"/>
-  <a href="#!">
-    <div class="mask rgba-white-slight"></div>
-  </a>
 </div>
 
 

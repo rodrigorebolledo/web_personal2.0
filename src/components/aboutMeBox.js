@@ -12,9 +12,6 @@ const AboutMeBox = () => (
 
   <div className="view view-cascade overlay">
     <img className="card-img-top" src="\assets\img\fondo.png" alt="Card image cap"/>
-    <a href="#!">
-      <div className="mask rgba-white-slight"></div>
-    </a>
   </div>
 
 
