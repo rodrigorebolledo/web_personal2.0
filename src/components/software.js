@@ -18,7 +18,7 @@ const Software = ({ source, cant_estrellas ,titulo, texto }) => {
   const estrellas = nstars =>{
     var stars = []
     for (let i = 0 ; i< nstars ; i++){
-      stars.push(<img src="http://pngimg.com/uploads/star/star_PNG1596.png" style={ star }/>)
+      stars.push(<img src="/assets/img/star_PNG1596.png" style={ star }/>)
     }
     return stars;
   }
